@@ -24,11 +24,11 @@ author:
 
   # Social media
   linkedin         :  # yuying-wu-206021335
-  googlescholar    :  https://scholar.google.com/citations?hl=zh-CN&user=1xXJk-0AAAAJ&view_op=list_works&sortby=pubdate # yuying-wu-206021335
+  googlescholar    :  # https://scholar.google.com/citations?hl=zh-CN&user=1xXJk-0AAAAJ&view_op=list_works&sortby=pubdate # yuying-wu-206021335
   sidebar_class    : "custom-sidebar"  # 自定义左侧栏的CSS类
 
-  cvlink           : /files/paper1.pdf
-  cvlink_title     : 学术简历
+  cvlink           : # /files/paper1.pdf
+  cvlink_title     : # 学术简历
 
 
 # Site Settings
