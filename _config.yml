@@ -4,7 +4,7 @@ title                    : "阮韵晨"
 title_separator          : "-"
 name                     : &name "阮韵晨"
 description              : &description "personal description"
-url                      : RuanYunchen.github.io
+url                      : https://RuanYunchen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Github/RuanYunchen"
 
