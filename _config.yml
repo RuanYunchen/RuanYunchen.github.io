@@ -15,12 +15,12 @@ author:
   avatar_class     : "custom-avatar"  # 添加自定义CSS类
   name             : "阮韵晨"
   pronouns         : # example: "she/her"
-  bio              : "福州大学 人文社会科学学院"
+  bio              : "福州大学·人文社会科学学院"
   location         :
   employer         :
   email            : "ruanyunchen@fzu.edu.cn"
-  github           : "RuanYunchen"
-  kaggle           :
+
+
 
   # Social media
   linkedin         :  # yuying-wu-206021335
