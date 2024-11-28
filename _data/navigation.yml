@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "简介"
+  - title: "介绍"
     url: "/"
 
   - title: "研究"
     url: /publications/
 
-  - title: "荣誉"
+  - title: "其他"
     url: /awards/
 
 #  - title: "Teaching"
