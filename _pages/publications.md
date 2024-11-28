@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0a41508f-5e0e-4254-8ea4-b99a3818be5a)![image](https://github.com/user-attachments/assets/9b8a23ff-03e8-4f7f-8262-6df33ca12a07)![image](https://github.com/user-attachments/assets/13b02d2b-43c3-4756-b0d7-d0adfb4c1469)---
+---
 layout: archive
 title: "研究"
 permalink: /publications/
