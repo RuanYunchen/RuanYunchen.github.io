@@ -5,7 +5,7 @@ title_separator          : "-"
 name                     : &name "阮韵晨"
 description              : &description "personal description"
 url                      : RuanYunchen.github.io
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Github/RuanYunchen"
 
 # Site Author
@@ -13,19 +13,23 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   avatar_class     : "custom-avatar"  # 添加自定义CSS类
-  name             : "李婷"
+  name             : "阮韵晨"
   pronouns         : # example: "she/her"
-  bio              : "M.A. Graduate, Applied Linguistics"
+  bio              : "福州大学"
   location         :
-  employer         : "福州大学"
+  employer         :
   email            : "ruanyunchen@gmail.com"
   github           : "RuanYunchen"
   kaggle           :
 
   # Social media
   linkedin         :  # yuying-wu-206021335
+  googlescholar    :  https://scholar.google.com/citations?hl=zh-CN&user=1xXJk-0AAAAJ&view_op=list_works&sortby=pubdate # yuying-wu-206021335
   sidebar_class    : "custom-sidebar"  # 自定义左侧栏的CSS类
-  
+
+  cvlink           : /files/paper1.pdf
+  cvlink_title     : 学术简历
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
