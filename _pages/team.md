@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 - ### 毕业博士生
-  - 郑叶昕
+  - 阮韵晨哈哈哈
 
 - ### 在读博士生
   - 闫誉腾
