@@ -10,9 +10,9 @@ author_profile: true
 ### 论文（更新时间：2024-12-07）
 
 - 2021年至今：
-  - Disability Transitions and Depressive Symptoms among Chinese Older Adults: Evidence from CHARLS [J]. Nursing and Health Research, 3(3). doi: 10.57237/j.nhres.2024.03.002 (2024；第一作者；普刊) [下载pdf]
-  - 中国老年人失能程度与抑郁程度双向关系的探究[J]. 人口研究, 48(2): 104-117.（2024；第一作者；CSSCI，权威期刊） <a href="/files/pubs/Disability.pdf"  download="download.pdf">下载pdf</a>
-  - Exploring the Reciprocal Relationship between Depressive Symptoms and Cognitive Function among Chinese Older Adults [J]. Healthcare, 11(21): 2880. doi: https://doi.org/10.3390/healthcare11212880 (2023；通讯作者；SSCI-Q2, 最新影响因子：2.4) [下载pdf]
+  - Disability Transitions and Depressive Symptoms among Chinese Older Adults: Evidence from CHARLS [J]. Nursing and Health Research, 3(3). doi: 10.57237/j.nhres.2024.03.002 (2024；第一作者；普刊)  <a href="/files/pubs/Nursing_and_Health_Research_2024.pdf"  download="download.pdf">下载pdf</a>
+  - 中国老年人失能程度与抑郁程度双向关系的探究——基于CHARLS数据的实证分析[J]. 人口研究, 48(2): 104-117.（2024；第一作者；CSSCI，权威期刊） <a href="/files/pubs/人口研究_2024.pdf"  download="download.pdf">下载pdf</a>
+  - Exploring the Reciprocal Relationship between Depressive Symptoms and Cognitive Function among Chinese Older Adults [J]. Healthcare, 11(21): 2880. doi: https://doi.org/10.3390/healthcare11212880 (2023；通讯作者；SSCI-Q2, 最新影响因子：2.4) <a href="/files/pubs/Healthcare_2023.pdf"  download="download.pdf">下载pdf</a> 
 
 - 2014年至2021年：
   - 新时代呼唤人口学研究的新格局[J]. 中国社会工作，332(8): 32-33.（2018；第二作者；《新华文摘》全文转载：2018年第08期）[下载pdf]
