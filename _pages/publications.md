@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/b120b23e-2575-4b85-8965-b9308a311aef" />---
 layout: archive
 title: "研究"
 permalink: /publications/
@@ -13,7 +13,7 @@ author_profile: true
   - Spousal Associations between Social Participation and Chronic Diseases among Chinese Middle-aged and Older Adults: An Actor-partner Interdependence Model Analysis [J]. Frontiers in Public Health, 13: 1576933. doi: https://doi.org/10.3389/fpubh.2025.1576933 (2025；第一作者；SSCI-Q1, 最新影响因子：3.4)  <a href="/files/pubs/Frontiers in Public Health_2025.pdf"  download="download.pdf">下载pdf</a>
   - 气候变化的损失何以被低估? ——基于老龄化社会的代际调查与定量研究[J]. 生态文明研究, 46(2): 74-89.（2025；通讯作者；CSSCI） <a href="/files/pubs/生态文明研究_2025.pdf"  download="download.pdf">下载pdf</a>
   - 老龄心理健康相关理论的跨学科解析[J]. 社会科学研究前沿, 3(6): 109-116.（2025；第一作者；普刊） <a href="/files/pubs/社会科学研究前沿_2025.pdf"  download="download.pdf">下载pdf</a>
-  - Disability Transitions and Depressive Symptoms among Chinese Older Adults: Evidence from CHARLS [J]. Nursing and Health Research, 3(3). doi: 10.57237/j.nhres.2024.03.002 (2024；第一作者；普刊)  <a href="/files/pubs/Nursing_and_Health_Research_2024.pdf"  download="download.pdf">下载pdf</a>
+  - Disability Transitions and Depressive Symptoms among Chinese Older Adults: Evidence from CHARLS [J]. Nursing and Health Research, 3(3). doi: https://doi.org/10.57237/j.nhres.2024.03.002 (2024；第一作者；普刊)  <a href="/files/pubs/Nursing_and_Health_Research_2024.pdf"  download="download.pdf">下载pdf</a>
   - 中国老年人失能程度与抑郁程度双向关系的探究——基于CHARLS数据的实证分析[J]. 人口研究, 48(2): 104-117.（2024；第一作者；CSSCI，权威期刊） <a href="/files/pubs/人口研究_2024.pdf"  download="download.pdf">下载pdf</a>
   - Exploring the Reciprocal Relationship between Depressive Symptoms and Cognitive Function among Chinese Older Adults [J]. Healthcare, 11(21): 2880. doi: https://doi.org/10.3390/healthcare11212880 (2023；通讯作者；SSCI-Q2, 最新影响因子：2.4) <a href="/files/pubs/Healthcare_2023.pdf"  download="download.pdf">下载pdf</a> 
 
