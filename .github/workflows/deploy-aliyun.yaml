@@ -67,7 +67,7 @@ jobs: # 定义工作流程中的任务（作业）
           REMOTE_USER: "git"
           TARGET: "/www/wwwroot/www.ruanyunchen.cn"
           # ARGS: "-avzr --delete" # 这个会引起  rsync  failed to set times  问题
-          ARGS: "-rlgoDzvc -i --delete"
+          ARGS: "-rlgoDzvc -i --delete  --filter='protect .well-known/' "
           SOURCE: "./_site/"
           EXCLUDE: "/node_modules/"
 
