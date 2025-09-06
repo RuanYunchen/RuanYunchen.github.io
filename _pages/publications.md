@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-### 论文（更新时间：2025-01-08）
+### 论文（更新时间：2025-08-27）
 
 - 2021年至今：
+  - Spousal Associations between Social Participation and Chronic Diseases among Chinese Middle-aged and Older Adults: An Actor-partner Interdependence Model Analysis [J]. Frontiers in Public Health, 13: 1576933. doi: https://doi.org/10.3389/fpubh.2025.1576933 (2025；第一作者；SSCI-Q1, 最新影响因子：3.4)  <a href="/files/pubs/Frontiers in Public Health_2025.pdf"  download="download.pdf">下载pdf</a>
+  - 气候变化的损失何以被低估? ——基于老龄化社会的代际调查与定量研究[J]. 生态文明研究, 46(2): 74-89.（2025；通讯作者；CSSCI） <a href="/files/pubs/生态文明研究_2025.pdf"  download="download.pdf">下载pdf</a>
   - 老龄心理健康相关理论的跨学科解析[J]. 社会科学研究前沿, 3(6): 109-116.（2025；第一作者；普刊） <a href="/files/pubs/社会科学研究前沿_2025.pdf"  download="download.pdf">下载pdf</a>
   - Disability Transitions and Depressive Symptoms among Chinese Older Adults: Evidence from CHARLS [J]. Nursing and Health Research, 3(3). doi: 10.57237/j.nhres.2024.03.002 (2024；第一作者；普刊)  <a href="/files/pubs/Nursing_and_Health_Research_2024.pdf"  download="download.pdf">下载pdf</a>
   - 中国老年人失能程度与抑郁程度双向关系的探究——基于CHARLS数据的实证分析[J]. 人口研究, 48(2): 104-117.（2024；第一作者；CSSCI，权威期刊） <a href="/files/pubs/人口研究_2024.pdf"  download="download.pdf">下载pdf</a>
@@ -22,7 +24,7 @@ author_profile: true
   - 老龄化新常态背景下城市居家养老体系建构的几点思考[J]. 城市观察, 45(5): 95-102.（2016；第二作者） <a href="/files/pubs/城市观察_2016.pdf"  download="download.pdf">下载pdf</a> 
   - 生命周期视角下的国民健康服务内涵探究[J]. 人口与计划生育, 220(12): 31-33. （2015；第二作者） <a href="/files/pubs/人口与计划生育_2015.pdf"  download="download.pdf">下载pdf</a> 
   
-### 课题（更新时间：2025-01-08）
+### 课题（更新时间：2025-08-27）
 - 2024年国家社会科学基金一般项目（主持），《农村老年人养老脆弱性动态演变、多重风险及其治理路径研究》（24BRK006），2024年10月（在研）。
 - 2024年福建省社会科学基金青年项目（主持），《农村老年人口养老脆弱性动态演变、多重风险暴露及优化路径研究》（FJ2024C165），2024年3月（在研）。
 - 2022年福建省民政政策理论研究一般课题（主持），《低生育率背景下生育支持政策研究》（FMYB202247），2022年6月（已结题）。
