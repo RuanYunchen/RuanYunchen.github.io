@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### 论文（更新时间：2025-08-27）
+### 论文（更新时间：2025-09-09）
 
 - 2021年至今：
   - Spousal Associations between Social Participation and Chronic Diseases among Chinese Middle-aged and Older Adults: An Actor-partner Interdependence Model Analysis [J]. Frontiers in Public Health, 13: 1576933. doi: https://doi.org/10.3389/fpubh.2025.1576933 (2025；第一作者；SSCI-Q1, 最新影响因子：3.4)  <a href="/files/pubs/Frontiers in Public Health_2025.pdf"  download="download.pdf">下载pdf</a>
